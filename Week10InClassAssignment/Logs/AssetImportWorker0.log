@@ -80,3 +80,4 @@ Received Import Request.
 Start importing Assets/Scripts/CameraMgr.cs using Guid(00aa31958af3b2547a42a5aaf700f59f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6191838e372fa8f5e0b27c9ff213d0d6') in 0.028303 seconds
   Import took 0.032144 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
